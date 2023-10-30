@@ -1,6 +1,6 @@
 #!/bin/bash
 
 git add .
-git commit -m "Atualização de relatorios"
+git commit -m "tirei a porta "
 git branch -M main
 git push -u origin main
